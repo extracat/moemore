@@ -1,4 +1,11 @@
 {
-	"alias": ["moemore"],
+	"alias": [	"moemore", 
+				"moemore.agency",
+				"moemore.business",
+				"www.moemore.agency",
+				"www.moemore.business"
+				
+			],
 	"version": 2
 }
+
