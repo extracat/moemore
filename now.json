@@ -2,9 +2,12 @@
 	"alias": [	"moemore", 
 				"moemore.agency",
 				"moemore.business",
+				"moemore.estate",
+				"moemore.realty",
 				"www.moemore.agency",
-				"www.moemore.business"
-				
+				"www.moemore.business",
+				"www.moemore.estate",
+				"www.moemore.realty" 
 			],
 	"version": 2
 }
